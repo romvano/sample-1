@@ -2,3 +2,8 @@ body {
 	padding: 20%;
 	box-sizing: border-box;
 }
+
+.form__warning {
+    color: red;
+    font-style: italic;
+}
